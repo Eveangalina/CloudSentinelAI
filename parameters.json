@@ -1,0 +1,12 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "accounts_SpeechGlobalBot_name": {
+            "value": null
+        },
+        "accounts_TranslatorGlobalBot_name": {
+            "value": null
+        }
+    }
+}
